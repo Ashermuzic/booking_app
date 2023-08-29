@@ -1,3 +1,5 @@
 # booking_app
 
-# only front end finished
+# Only the front end finished
+
+# back end soon to come
